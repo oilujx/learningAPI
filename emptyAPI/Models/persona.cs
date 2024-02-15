@@ -14,6 +14,7 @@ namespace emptyAPI.Models
         // SON COMO SUS CARACTERISTICAS
         // ES LO QUE DEFINE A UN OBJETO
         // POR EJEMPLO UNA PERSONA TIENE NOMBRES, EDAD, SEXO, ESTATURA, ETC....
+        // VOS A MANOSEAR
         public string nombres { get; set; }
         public int edad { get; set; }
         public string genero { get; set; }
